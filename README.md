@@ -1,6 +1,6 @@
-### Hey 👋, I'm Vaibhav Singh
+<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm Anurag. I do open source!" src="./assets/gh-readme-header.png" /></a></p>
 
-[![Github](https://img.shields.io/github/followers/MrUnknown-47?label=Follow&style=social)](https://github.com/MrUnknown-47
+[![Github](https://img.shields.io/github/followers/MrUnknown-47?label=Follow&style=social)](https://github.com/MrUnknown-47)
 
 - I'm a software engineer from India.
 - In my free time i love contributing to open source projects and playing video games.
