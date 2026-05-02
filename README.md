@@ -1,4 +1,4 @@
-<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm Anurag. I do open source!" src="./assets/gh-readme-header.png" /></a></p>
+### Hey 👋, I'm Vaibhav Singh
 
 [![Github](https://img.shields.io/github/followers/MrUnknown-47?label=Follow&style=social)](https://github.com/MrUnknown-47)
 
